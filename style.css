@@ -30,7 +30,6 @@ p {
 .cards{
   text-align: center;
   background-color: white;
-  width: 600px;
   margin: 10px auto;
   border-radius: 4px;
   box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
